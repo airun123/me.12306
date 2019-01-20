@@ -1,0 +1,62 @@
+.p{
+
+    width: 80%;
+    height: 200px;
+    box-shadow: 1px 1px 2px #0b070c ;
+
+}
+
+.k{
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.city{
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.city_left{
+    width: 80%;
+    border-radius: 4px;
+    flex: 1;
+    background-color: white;
+    text-align: center;
+
+
+}
+.city_center{
+    width: 50px;
+    background-image: url(../img/index/箭头_左右切换.svg);
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: center;
+
+}
+
+.city_right{
+    width: 80%;
+    border-radius: 4px;
+    flex: 1;
+    background-color:white;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.date{
+    height: 55px;
+    color: slategrey;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.date_1{
+    font-weight: 500;
+    font-size: 17px;
+    color: #0b070c;
+}
+

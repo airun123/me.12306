@@ -1,0 +1,215 @@
+.static{
+    height: 200px;
+ flex: 1;
+    overflow: scroll;
+}
+.static_1{
+    height: 40px;
+    width: 100%;
+    box-shadow: 0px 0px 5px black;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.list{
+    flex: .5;
+    font-size: 18px;
+
+
+}
+.hint{
+    flex: .5;
+    text-align: right;
+   color: blue;
+    align-items: flex-end;
+   font-size: 12px;
+    line-height: 40px;
+    margin-right: 20px;
+    /*text-decoration: blue 1px;*/
+}
+
+
+.static_2{
+    height: 50px;
+    width: 100%;
+
+}
+
+.static_3{
+    height: 120px;
+    width: 100%;
+    background-image: url(../img/ing/1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+}
+
+.static_4{
+    height: 120px;
+    width: 100%;
+
+     display: flex;
+    justify-content: space-between;
+
+}
+.cate{
+
+
+    width: 50px;
+
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+
+}
+
+.insurance{
+
+    flex: 1;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+
+}
+
+.cate_1{
+    flex: 1;
+
+    background-image: url(../img/index/餐饮.svg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+
+
+}
+.cate_2{
+    background-image: url(../img/订单/保险.svg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    flex: 1;
+}
+
+.insurance_1{
+line-height: 60px;
+    flex: 1;
+    margin-left: 10px;
+    border-bottom: black 1px solid;
+}
+.insurance_2{
+    flex: 1;
+    line-height: 60px;
+    margin-left: 10px;
+    border-bottom: black 1px solid;
+}
+
+.railway{
+    height: 100px;
+    width: 100%;
+}
+.railway_1{
+    height: 30px;
+    width: 100%;
+}
+.railway_2{
+    height: 120px;
+    width: 100%;
+}
+.railway_3{
+    height: 30px;
+    width: 100%;
+}
+.me{
+    height: 40px;
+    width: 100%;
+}
+.me_1{
+    height: 35px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+     border-bottom: black 1px solid;
+
+}
+.me_1 div:nth-child(1){
+    flex: 1;
+    line-height: 35px;
+    margin-left: 20px;
+
+}
+.me_1 div:nth-child(2){
+    flex: 1;
+    line-height: 35px;
+    text-align: right;
+    margin-right: 20px;
+}
+
+
+.stat{
+    height: 175px;
+    background-image: url(../img/铁路畅行/timgg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.rail{
+    color: grey;
+    font-size: 10px;
+    margin-left: 20px;
+
+}
+
+.member{
+    height: 100px;
+    width: 100%;
+   display: flex;
+}
+
+.member_left{
+   flex: 1;
+
+
+}
+
+.member_1{
+
+    height: 45px ;
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: center;
+
+
+}
+.member_2{
+  font-size: 12px;
+    text-align: center;
+    margin-left: 5px;
+
+}
+.member_right{
+    flex: 1;
+}
+
+
+.know{
+    height: 30px;
+    width: 100%;
+    display: flex;
+}
+
+.know_1{
+    width: 30px;
+    background-image: url(../img/铁路畅行/问号.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+    margin-left: 20px;
+}
+
+.know div{
+    color: black;
+    font-size: 10px;
+    line-height: 30px;
+
+}

@@ -1,0 +1,16 @@
+.content{
+    height: 35px;
+    background-color: white;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+.content_img{
+    height: 30px;
+    width: 30px;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+}

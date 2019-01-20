@@ -1,0 +1,144 @@
+.query{
+    flex: 1;
+    width: 100%;
+    overflow: scroll;
+}
+
+
+.Z{
+    height: 60px;
+    width: 100%;
+    display: flex;
+}
+
+.Z_1{
+    width: 35px ;
+    line-height: 30px;
+    margin-left: 10px;
+
+}
+
+.Z_1 div{
+    color: black;
+    font-size: 10px;
+    font-weight: 700;
+
+
+}
+.Z_2{
+    width: 80px;
+   line-height: 30px;
+
+}
+.start{
+    display: flex;
+    height: 30px;
+
+}
+.start_1{
+    height: 50px;
+    background-image: url(../img/查询车票/过.svg);
+    background-repeat: no-repeat;
+    background-size: 65%;
+    width: 40px;
+}
+.C{
+    height: 50px;
+    background-image: url(../img/查询车票/始.svg);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    width: 40px;
+}
+
+
+.end{
+    display: flex;
+    height: 30px;
+}
+.end_1{
+    height: 50px;
+    background-image: url(../img/查询车票/终.svg);
+    background-repeat: no-repeat;
+    background-size: 65%;
+
+    width: 40px;
+}
+.start_2{
+    height: 20px;
+    width: 50px;
+    font-size: 10px;
+    font-weight: 700;
+    color: #5c7fff;
+}
+.Z_3{
+    flex: 1;
+}
+
+.Z_3_3{
+    height: 15px;
+    background-image: url(../img/查询车票/省份证.svg);
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center;
+}
+.Z_3_1{
+
+    height: 25px;
+    background-image: url(../img/查询车票/长箭头.svg);
+    background-repeat: no-repeat;
+    background-size: 65px;
+    background-position: center;
+
+}
+
+.Z_3_2{
+    color: grey;
+    font-size: 10px;
+    text-align: center;
+
+
+
+}
+.arrows{
+    height: 60px;
+    background-image: url(../img/查询车票/向右.svg);
+    background-repeat: no-repeat;
+    background-size: 18px;
+    background-position: right;
+}
+
+.font{
+    color: black;
+    font-size: 10px;
+    font-weight: 700;
+
+}
+
+
+
+.T{
+    height: 35px;
+    width: 100%;
+
+}
+
+.T_1{
+    height: 16px;
+    width: 100%;
+    display: flex;
+}
+
+.seat{
+   flex: 1;
+    color: black;
+    font-size: 10px;
+    /*margin: 3px;*/
+    margin-left: 10px;
+
+}
+.seat_1{
+    color: grey;
+    font-size: 10px;
+
+    margin-left: 10px;
+}

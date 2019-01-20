@@ -1,0 +1,49 @@
+.search{
+    height: 30px;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+.scan{
+    height: 50px;
+    width: 50px;
+}
+
+.scan_img{
+    height: 50px;
+    width: 50px;
+    background-image: url(../img/index/扫一扫.svg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center;
+}
+
+.search_area {
+
+    width: 80%;
+    height: 30px;
+    border-radius: 4px;
+    flex: 1;
+    background-color: white;
+    background-image: url(../img/index/搜索.svg);
+    background-repeat: no-repeat;
+    background-size: 7%;
+    background-position: left;
+
+}
+
+.search div {
+    width: 40px;
+    height: 30px;
+}
+
+.news{
+    height: 50px;
+    width: 50px;
+    background-image: url(../img/index/消息.svg);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+
+}

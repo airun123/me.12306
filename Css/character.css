@@ -1,0 +1,29 @@
+.character{
+    justify-content: space-around;
+    font-size: 10px;
+    background-color: white;
+    display: flex;
+    text-align: center;
+
+}
+
+
+.character_1{
+    color: white;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 10px;
+    background-color: rgba(50, 48, 49, 0.69);
+    display: flex;
+
+}
+
+.character_2{
+    color: black;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 10px;
+    background-color: white;
+    display: flex;
+
+}

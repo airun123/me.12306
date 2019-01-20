@@ -1,0 +1,110 @@
+.photo{
+    height: 200px;
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.photo_1{
+    height: 150px;
+    width: 240px;
+    /*background-size: 80%;*/
+    margin-left: 4px;
+    border-radius: 4px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+
+}
+
+.last{
+    width: 100%;
+    height: 150px;
+    display: flex;
+}
+.card{
+    height: 150px;
+  flex: 1;
+
+}
+.card_1{
+
+    color: black;
+    font-size: 10px;
+
+}
+
+
+.card_2{
+    color: #5c7fff;
+    font-size: 12px;
+
+
+
+}
+
+.card_3{
+    height: 60px;
+    width: 60px;
+    background-image: url(../img/index/timgC.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+
+
+.serve{
+    flex: 1;
+    /*display: flex;*/
+    /*flex-flow: column;*/
+    /*justify-content: space-between;*/
+}
+.serve_1{
+
+    color: black;
+    font-size: 10px;
+
+}
+.serve_6{
+margin-top: 20px;
+    color: black;
+    font-size: 10px;
+
+}
+.serve_2{
+    color: yellow;
+    font-size: 12px;
+
+}
+
+.serve_3{
+    height: 60px;
+    width: 60px;
+    background-image: url(../img/index/timgT.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+
+}
+.serve_4{
+    color: red;
+    font-size: 12px;
+}
+.serve_5{
+   height: 50px;
+    margin-top: 50px;
+    background-image: url(../img/index/timgY.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+.picture{
+    height: 100px;
+    background-image: url(../img/ing/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
